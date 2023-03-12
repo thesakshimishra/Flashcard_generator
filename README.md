@@ -6,7 +6,7 @@
 
 click below to visit Flashcard generator
 
--
+- flashcardgenerators.netlify.app
 
 
 ## Run Locally
